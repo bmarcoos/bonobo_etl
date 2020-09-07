@@ -1,0 +1,6 @@
+﻿variable;link
+Imports;https://stats.oecd.org/SDMX-JSON/data/KEI/XT+XTIMVA01.CHL.GY.A+Q+M/all?startTime={}&endTime={}&pid=b479321f-1542-487e-98ec-c778350c2c61
+Exports;https://stats.oecd.org/SDMX-JSON/data/KEI/XT+XTEXVA01.CHL.GY.A+Q+M/all?startTime={}&endTime={}&pid=b479321f-1542-487e-98ec-c778350c2c61
+Harmonised Unemployment Rate;https://stats.oecd.org/SDMX-JSON/data/KEI/LR+LRHUTTTT.CHL.ST.A+Q+M/all?startTime={}&endTime={}&pid=b479321f-1542-487e-98ec-c778350c2c61
+Long-Term Interest Rate;https://stats.oecd.org/SDMX-JSON/data/KEI/IR+IRLTLT01.CHL.ST.A+Q+M/all?startTime={}&endTime={}&pid=b479321f-1542-487e-98ec-c778350c2c61
+Consumer Price Annual Inflation;https://stats.oecd.org/SDMX-JSON/data/KEI/CP+CPALTT01.CHL.GY.A+Q+M/all?startTime={}&endTime={}&pid=b479321f-1542-487e-98ec-c778350c2c61
